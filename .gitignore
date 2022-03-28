@@ -1,0 +1,4 @@
+node_modules/
+chain.sqlite3
+.DS_Store
+node_modules
